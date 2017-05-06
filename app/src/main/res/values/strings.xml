@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HopsOy</string>
+    <string name="header1">HOPS/Realia Isännöinti Oy</string>
+    <string name="header2">The Student Housing Foundation</string>
+    <string name="search">search text here...</string>
+    <string name="contact">Address: Sibeliuksenkatu 5, 4Krs\n13100 Hämeenlinna\n \nPhone: 0102287010</string>
+    <string name="hours">Work Hours:\n9.00 - 16.00 monday - friday</string>
+</resources>
